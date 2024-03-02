@@ -1,0 +1,50 @@
+
+/*
+========================================
+Footer
+========================================
+*/
+
+footer {
+	font-family: "Varela Round", sans-serif;
+	padding: 50px 20px 20px 20px;
+	background: #222;
+	color: #b2b2b2;
+	letter-spacing: 1px;
+	text-align: center;
+}
+
+footer ul {
+	list-style: none;
+    margin-right: 3rem;
+}
+
+footer p {
+	font-size: 0.85em;
+}
+
+footer a {
+	text-decoration: none;
+	color: #eee;
+}
+
+footer .fa-instagram,
+footer .fa-facebook-square,
+footer .fa-twitter-square {
+	font-size: 2em;
+	margin: 2px;
+}
+
+footer h3 {
+	text-decoration: underline;
+}
+
+.bottom-bar {
+	padding: 20px;
+	background: #111;
+	color: #b2b2b2;
+	font-family: "Varela Round", sans-serif;
+	font-size: 0.7em;
+}
+
+
