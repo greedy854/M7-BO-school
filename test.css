@@ -376,5 +376,7 @@ body {
     font-family: arial;
     color: gray;
   }
-  
-  
+
+  a{
+    text-decoration: none;
+  }
