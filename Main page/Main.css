@@ -44,8 +44,8 @@ body {
   } */
   
   #icons {
-    display:inline-block;
-    float:right;
+    display:block;
+    float: right;
   }
   
   #icons img {
@@ -58,10 +58,6 @@ body {
     width: 900px;
     display:grid;
     grid-template-columns: 60% 40%;
-  }
-  
-  #sidebar {
-  /*   border:1px solid red; */
   }
   
   .post {
@@ -315,7 +311,7 @@ body {
     font-family:arial;
     font-size:12px;
     font-weight:bold;
-    text-decoration: none;\ 
+    text-decoration: none; 
   }
   
   .suggestions {
