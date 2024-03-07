@@ -41,7 +41,7 @@
   }
   
   #loading {
-    background: url(Spinnercolor.gif) no-repeat center center;
+    background: url(/Users/Spinnercolor.gif) no-repeat center center;
     position: absolute;
     z-index: 9999;
     width: 100%;
